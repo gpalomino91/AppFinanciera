@@ -95,7 +95,7 @@ Esta es una aplicación de consola en **C#** para gestionar **ingresos y gastos*
 ## 🧑‍💻 **Autor**
 
 - **Gonzalo Palomino**  
-  - [LinkedIn](https://www.linkedin.com/in/gonzalo-palomino-torres)
+  - [LinkedIn](https://www.linkedin.com/in/gpalominotorres)
 
 ---
 
